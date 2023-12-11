@@ -1,1 +1,1 @@
-# SPD-DDPM-
+# SPD-DDPM
