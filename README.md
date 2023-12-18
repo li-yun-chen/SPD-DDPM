@@ -1,4 +1,6 @@
 # SPD-DDPM
+This is code for AAAI2024 paper SPD-DDPM:Denoising Diffusion Probabilistic Models in SPD Space. Paper is in https://arxiv.org/abs/2312.08200.
+
 File ddpm_uncondition is the code for unconditional SPD ddpm. ddpm.py is the main script. You can use generate_train_sample_setting1.py to generate training samples, using ddpm_test_setting1.py to generate test samples.
 
 File ddpm_condition is the code for conditional SPD ddpm. ddpm.py is the main file. Ypu can use test.py to generate test samples.
